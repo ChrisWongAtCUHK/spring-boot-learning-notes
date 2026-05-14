@@ -18,3 +18,12 @@ public class UserService {
     }
 }
 ```
+
+## [認識 Spring Boot 應用程式的啟動生命週期](https://blog.miniasp.com/post/2022/09/20/How-Spring-Boot-Works)
+```
+brew tap spring-io/tap
+brew install spring-boot
+```
+```
+spring init --dependencies=web,lombok --groupId=com.duotify --build=maven starter1
+```
